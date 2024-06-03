@@ -4,7 +4,7 @@
 
 Можно использовать Docker([Ссылка](https://hub.docker.com/repository/docker/alexxx1xx/nasevcode/general)).
 
-UDP. Без распознования голоса
+UDP. Проект в докере без распознования голоса
 
 Как запустить проект без docker:
 1) Скачачайте папку django1
