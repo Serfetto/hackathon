@@ -3,6 +3,7 @@
 [Ссылка](https://drive.google.com/file/d/1x1lyyLGr3OBnEDiehikiudvJsWOxZ5I5/view?usp=drive_link) на скачивание модели для пунктуатора, её надо переместить в папку [ru_punct](/hackathon/ru_punct).
 
 Можно использовать Docker([Ссылка](https://hub.docker.com/repository/docker/alexxx1xx/nasevcode/general)).
+
 UDP. Без распознования голоса
 
 Как запустить проект без docker:
